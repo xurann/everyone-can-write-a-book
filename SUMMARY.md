@@ -12,4 +12,10 @@
 * [09.目标](09.-mu-biao.md)
 * [10.刻意练习](10.-ke-yi-lian-xi.md)
 * [11.专注](untitled-2.md)
+* [12.如何练就强大的执行力](untitled-3.md)
+* [13.你就是作家](13.-ni-jiu-shi-zuo-jia.md)
+* [14.如何养成写作的习惯](14.-ru-he-yang-cheng-xie-zuo-de-xi-guan.md)
+* [15.成功密码：早晨仪式](15.-cheng-gong-mi-ma-zao-chen-yi-shi.md)
+* [16.作家启示录（一）](16.1-zuo-jia-qi-shi-lu-yi.md)
+* [17.作家启示录（二）](16.2-zuo-jia-qi-shi-lu-er.md)
 

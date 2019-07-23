@@ -18,4 +18,12 @@
 * [15.成功密码：早晨仪式](15.-cheng-gong-mi-ma-zao-chen-yi-shi.md)
 * [16.作家启示录（一）](16.1-zuo-jia-qi-shi-lu-yi.md)
 * [17.作家启示录（二）](16.2-zuo-jia-qi-shi-lu-er.md)
+* [18.如何成为一个多产的作家？](17.-ru-he-cheng-wei-yi-ge-duo-chan-de-zuo-jia.md)
+* [19.写什么（一）: 作品很重要](19.-xie-shen-me-yi-zuo-pin-hen-zhong-yao.md)
+* [20.写什么（二）：长青内容](untitled-4.md)
+* [21.写什么（三）：长期被喜欢](21.-xie-shen-me-san-chang-qi-bei-xi-huan.md)
+* [22.方法论的重要性（一）：实实在在的成功](22.-fang-fa-lun-de-zhong-yao-xing-yi-shi-shi-zai-zai-de-cheng-gong.md)
+* [23.方法论的重要性（二）：独立思考](23.-fang-fa-lun-de-zhong-yao-xing-er-du-li-si-kao.md)
+* [24.方法论的重要性（三）：学会写作](24.-fang-fa-lun-de-zhong-yao-xing-san-xue-hui-xie-zuo.md)
+* [感谢](gan-xie.md)
 

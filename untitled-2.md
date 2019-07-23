@@ -80,7 +80,7 @@ Daniel Goleman（心理学家、畅销书作者，主要作品有《情商》、
 >
 > 如果我明天有事情要做，然后我很担心明天可能会下雨影响那件事，那么无论我感到多大的压力，我都无法改变明天到底下不下雨的事实。斯多葛派哲学有句老话：如果你能够区分你能改变的和你不能改变的，并且将自己的注意力放在你能够改变的部分，那么，你不但会更快乐，还会更多产跟高效。
 
-除了斯多葛派哲学。。。。。，在19世纪30年代，美国基督教神学家尼布尔写过一段《宁静祷文》[（The Serenity Prayer）](https://en.wikipedia.org/wiki/Serenity_Prayer)：
+在19世纪30年代，美国基督教神学家尼布尔写过一段《宁静祷文》[（The Serenity Prayer）](https://en.wikipedia.org/wiki/Serenity_Prayer)：
 
 > God, grant me the serenity to accept the things I cannot change, Courage to change the things I can, And wisdom to know the difference. 上帝啊 请赐予我平静，让我接受我不能改变的 请赐予我勇气，让我改变我能改变的 请赐予我智慧，让我能区分两者
 

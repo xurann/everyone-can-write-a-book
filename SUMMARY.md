@@ -19,4 +19,10 @@
 * [16.作家启示录（一）](16.1-zuo-jia-qi-shi-lu-yi.md)
 * [17.作家启示录（二）](16.2-zuo-jia-qi-shi-lu-er.md)
 * [18.如何成为一个多产的作家？](18.-ru-he-cheng-wei-yi-ge-duo-chan-de-zuo-jia.md)
-
+* [19.写什么（一）: 作品很重要](19.-xie-shen-me-yi-zuo-pin-hen-zhong-yao.md)
+* [](.md)
+* [](.md)
+* [](.md)
+* [](.md)
+* [](.md)
+* [](.md)
